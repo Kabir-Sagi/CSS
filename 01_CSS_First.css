@@ -1,0 +1,11 @@
+h2 {
+    background-color: blue;
+    padding:10px;
+    box-shadow: 0 0 20px pink;
+}
+
+ p {
+    background-color:orange;
+    padding:10px;
+    box-shadow: 0 0 20px black;
+ }

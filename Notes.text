@@ -1,0 +1,108 @@
+CSS 
+Cascading style sheet
+properties 
+synatx 
+what are selectors 
+1) Tag name 
+2) id 
+3) class 
+4) attributes 
+5)psuedo selector 
+
+In how many ways we can link our CSS to HTML.
+ 1) Inline Styling
+ 2) Internal Styling 
+ 3) External Styling 
+
+Background properties
+======================
+
+ bacackground-color 
+ bacackground-image 
+ background-position
+ bacackground-repeat 
+ background-size
+ background
+
+Border Property
+================
+border-style  solid dashed dotted 
+border-width 
+border-color 
+border-top
+
+ Margin              
+ ======               
+ margin-top            
+ margin-bottom 
+ margin-right 
+ margin-left
+                     
+ Padding
+ =======
+ padding-top 
+ padding-bottom 
+ padding-right 
+ padding-left
+
+Text-Formatting in CSS 
+======================
+  - text-align         ---> left,right,center 
+  - color              ---> Any Color 
+  - text-decoration    ---> none,underline,overline,line-through,wavy with some style & color 
+  - background-color   ---> Any color 
+  - text-transform     ---> uppercase, lowercase, capitalize 
+  - text-shadow        ---> 0 0 10px yellow;
+  - word-spacing       ---> Some Value
+  - letter-spacing     ---> Some Value 
+
+font properties 
+===============
+font-size     ---> any value
+font-family   ---> any font format 
+font-weight   ---> bold bolder 
+font-style    ---> italic or normal
+
+link
+====
+a:link 
+a:hover 
+a:active 
+a:visited
+
+Position 
+========
+Static 
+Relative 
+Absolute 
+Fixed 
+Sticky
+
+Display
+======
+Inline 
+Block 
+inline-block 
+none
+
+Float 
+===== 
+ left 
+ Right
+
+ Forms 
+ =====
+   input type="text,password,date,time,color,datetime,reset,
+   submit,file,email,number,checkbox,radio,week,progress,range"
+
+   select option 
+
+   datalist 
+   
+   optgroup
+
+
+   Details
+   summary
+   figure 
+   figcaption 
